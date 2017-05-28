@@ -4,6 +4,7 @@
 
 case "$1" in
 	start)
+		pkill pwm_ssr_dimmer.php
 		nohup /var/www/MyScripts/PWM/pwm_ssr_dimmer.php > /dev/null 2>&1 &
 		# echo "Start PWM ssr dimmer..."
 		;;
