@@ -32,7 +32,7 @@
 // 45 6 * * * root /var/www/MyScripts/PWM/pwm_ssr_dimmer.sh start
 // lo script si ferma automaticamente dopo 20 cicli (dopo le ore 16.00) con produzione = 0 (cioè alla sera in assenza di sole)
 
-// **********************
+// ********************** 
 //VARIABILI DA MODIFICARE
 // **********************
 $mettemp = 0;			// MeterID Temperatura Boiler (0 se non si utilizza il sensore di temperatura)
