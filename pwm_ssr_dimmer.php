@@ -3,7 +3,7 @@
 
 /*
  * pwm_ssr_dimmer: Raspberry PWM dimmer for optimize the PV self-consumption, with boiler temperature control
- * Rev. 1.21
+ * Rev. 1.22
  *
  * Copyright (C) 2016 Flavio Anesi <www.flanesi.it>
  * 
@@ -144,7 +144,7 @@ while ($controllo < 20){
 	$generata = shell_exec($lett_prod);
 	$generata = substr($generata,2,-4);
 	// lettura temperatura boiler
-	if (file_exists(/dev/shm/metern$mettemp.txt)) {
+	if (file_exists("/dev/shm/metern$mettemp.txt")) {
 		$temp = shell_exec($lett_temp);
 		$temp = substr($temp, 0, 2);
                 if (is_numeric($temp)) {
