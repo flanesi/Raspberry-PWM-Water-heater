@@ -7,7 +7,7 @@ I requisiti essenziali per poter utilizzare questo sistema sono:\\
 *	MeterN versione 0.8.3 e successive
 *	Configurazione standard (primo meter libero n. 6)
 
-Forum di discussione: http://www.flanesi.it/forum/viewtopic.php?f=20&t=1842
+Forum di discussione: [Modulazione automatica resistenza boiler PWM [GUIDA]](http://www.flanesi.it/forum/viewtopic.php?f=20&t=1842)
 
 # DESCRIZIONE
 
