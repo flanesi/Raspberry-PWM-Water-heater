@@ -2,10 +2,10 @@
 Raspberry PWM dimmer for optimize the PV self-consumption, with boiler temperature control
 
 # PREMESSA
-I requisiti essenziali per poter utilizzare questo sistema sono:
-•	sistema di monitoraggio realizzato mediante l’immagine Solarjessie v2.6 e successive;
-•	MeterN versione 0.8.3 e successive
-•	Configurazione standard (primo meter libero n. 6)
+I requisiti essenziali per poter utilizzare questo sistema sono:\\
+*	sistema di monitoraggio realizzato mediante l’immagine Solarjessie v2.6 e successive;
+*	MeterN versione 0.8.3 e successive
+*	Configurazione standard (primo meter libero n. 6)
 
 Forum di discussione: http://www.flanesi.it/forum/viewtopic.php?f=20&t=1842
 
@@ -17,5 +17,5 @@ In questo modo si riesce a fare una regolazione a treni di sinusoidi, regolando 
 
 # GUIDA
 
-Vedasi il file Intructions_IT.doc presente nel repository
+Vedasi il file [Intructions_IT.doc](https://github.com/flanesi/Raspberry-PWM-Water-heater/blob/master/Instructions_IT.doc) presente nel repository
 
