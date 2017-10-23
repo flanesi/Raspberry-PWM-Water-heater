@@ -3,7 +3,7 @@ Raspberry PWM dimmer for optimize the PV self-consumption, with boiler temperatu
 
 # PREMESSA
 I requisiti essenziali per poter utilizzare questo sistema sono:\\
-*	sistema di monitoraggio realizzato mediante l’immagine Solarjessie v2.6 e successive;
+*	sistema di monitoraggio realizzato mediante l’[immagine Solarjessie v2.6](http://www.flanesi.it/doku/doku.php) e successive;
 *	MeterN versione 0.8.3 e successive
 *	Configurazione standard (primo meter libero n. 6)
 
