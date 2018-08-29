@@ -17,5 +17,5 @@ In questo modo si riesce a fare una regolazione a treni di sinusoidi, regolando 
 
 # GUIDA
 
-Vedasi il file [Intructions_IT.doc](https://github.com/flanesi/Raspberry-PWM-Water-heater/blob/master/Instructions_IT.pdf) presente nel repository
+Vedasi il file [Intructions_IT.pdf](https://github.com/flanesi/Raspberry-PWM-Water-heater/blob/master/Instructions_IT.pdf) presente nel repository
 
